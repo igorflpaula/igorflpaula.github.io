@@ -16,6 +16,7 @@ Graduando de Engenharia de Computação no IFSULDEMINAS, e apaixonado no desenvo
 
 ### Em Desenvolvimento
 Site em desenvolvimento, volte em breve!
+
 ![Gif de um Hacker](https://media4.giphy.com/media/115BJle6N2Av0A/giphy.gif?cid=ecf05e47q3r596999cjdzfusubq8zlnbocxbruyd4vda4hvn&rid=giphy.gif&ct=g)
 
 ### Pokedex
